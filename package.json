@@ -1,14 +1,16 @@
 {
-  "name": "express-server",
+  "name": "express-docker-server",
   "version": "1.0.0",
-  "description": "A simple Express.js server for demonstration purposes.",
+  "description": "A simple Express.js server running in a Docker container.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
+  "keywords": [],
+  "author": "Shivam",
+  "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
-  },
-  "author": "Shivam-ye",
-  "license": "ISC"
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3"
+  }
 }
