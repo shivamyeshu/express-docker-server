@@ -1,1 +1,1 @@
-This project was made by mcp server of agent builder by shivam
+This project was generated using the Model Context Protocol (MCP) server by the Agent Builder created by Shivam.
